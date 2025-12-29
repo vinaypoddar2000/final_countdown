@@ -5,6 +5,11 @@ Your goal is simple: **stop the timer as close as possible to the target time â€
 
 ---
 
+## Website Link
+- https://final-countdown-jofn.onrender.com
+
+---
+
 ## ðŸš€ Features
 
 * ðŸ§‘ **Set Your Name**
@@ -69,7 +74,7 @@ Your goal is simple: **stop the timer as close as possible to the target time â€
 1. Clone the repository:
 ```bash
 git clone https://github.com/vinaypoddar2000/final_countdown.git
-cd tic-tac-toe
+cd final_countdown
 ```
 
 2. Install dependencies:
